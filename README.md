@@ -2,8 +2,9 @@
 *Welcome to the Tidal Hackathon GitHub repository for Team 24.*
 
 ## Overview
-*This repository contains all the resources, code, and data for our team's participation in the Tidal Hackathon 2023.
- We developed a basic application that asked the professor some quesitons, determine whether or not they are liked by their students, and what the 
+*This repository contains all the resources, code, and data for our team's participation in the Tidal Hackathon 2023. We were tasked to develop a project that provide unique insights in the field of education, and integrate our findings into an application or website. 
+
+We developed a basic application that asked the professor some quesitons, determine whether or not they are liked by their students, and what the 
  professor could improve on.*
 
 **Debrief**
